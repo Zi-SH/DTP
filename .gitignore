@@ -1,4 +1,7 @@
-.vs/
+# Main Dir
 obj/
 bin/
-*.user
+.idea/
+
+
+src/DTP/.*
